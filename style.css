@@ -1,0 +1,28 @@
+
+body{
+    background-image: url(criptografia.jpg);
+    text-align: center;
+    line-height: 1.6;
+}
+
+.banner {
+    width: 100%;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+}
+
+label {
+    color: #FFFF;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
