@@ -39,7 +39,7 @@ $descrip = base64_decode($senhaDesc);
                 </div>
 
                 <label for="mensagemDescripto">Mensagem descriptografada</label>
-                <textarea id="mensagemDescripto" cols="70" rows="10" class="input-padrao" placeholder="Aqui aparece a mensagem descriptografada.">
+                <textarea id="mensagemDescripto" cols="70" rows="10" class="input" placeholder="Aqui aparece a mensagem descriptografada.">
                     <?php
                         echo $descrip;
                     ?>
